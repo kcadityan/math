@@ -7,3 +7,5 @@ function d2 (a){
     return x.add(a,a)
 }
 console.log(d2(3))
+
+// added comment
